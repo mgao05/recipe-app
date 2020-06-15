@@ -1,7 +1,6 @@
 package guru.springframework.Domain;
 
 import lombok.Data;
-import org.hibernate.mapping.Value;
 
 import javax.persistence.*;
 import java.util.HashSet;
